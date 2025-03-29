@@ -1,5 +1,11 @@
 # Ignis-Tech-Task
 ## Screenshots  
-### **1. Home Page**
-![image](https://github.com/user-attachments/assets/59ae2947-bf77-4d9b-897d-558148ba3403)
+
+![image](https://github.com/user-attachments/assets/a82fa43b-9024-41b2-a654-31dd48f14bef)
+
+
+
+![image](https://github.com/user-attachments/assets/8fe8f553-35a2-4c69-840f-6aa66c7c7abb)
+
+
 
